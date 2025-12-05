@@ -1,5 +1,0 @@
-passwords / 
-prueba1 = 1 2 3
-
-
-
